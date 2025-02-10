@@ -2,7 +2,7 @@
 
 > Esta aplicação foi criada com o intuito de usuários poderem controlar onde o seu dinheiro vai, podendo assim organizar suas finanças e evitar gastos desnecessários.
 >
-## Funcionalidades
+## Principais funcionalidades
 - Cadastrar usuário
 - Fazer login
 - Cadastrar uma despesa/receita
